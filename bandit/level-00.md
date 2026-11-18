@@ -10,7 +10,9 @@ The password for the initial connection is provided by OverTheWire.
 
 Command used:
 
+```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
+```
 
 Explanation
 
@@ -29,9 +31,11 @@ The password for Level 1 is stored in a file named "readme", located in the home
 
 Commands used
 
+```bash
 pwd
 ls
 cat readme
+```
 
 Explanation
 
