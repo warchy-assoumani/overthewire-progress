@@ -2,7 +2,7 @@
 
 ## About
 
-This repository documents my progression through OverTheWire wargames, starting with Bandit.
+This repository documents my progression through OverTheWire wargames, starting with [Bandit](https://overthewire.org/wargames/bandit/).
 
 The objective is to develop practical skills in Linux, command-line usage, system administration and cybersecurity.
 
@@ -19,17 +19,22 @@ For each level, I document:
 
 ### Bandit
 
-- [ ] Level 0
-- [ ] Level 1
-- [ ] Level 2
-- [ ] Level 3
-- [ ] Level 4
-- [ ] Level 5
-- [ ] Level 6
-- [ ] Level 7
-- [ ] Level 8
-- [ ] Level 9
-- [ ] Level 10
+- [X] Level 0
+- [X] Level 1
+- [X] Level 2
+- [X] Level 3
+- [X] Level 4
+- [X] Level 5
+- [X] Level 6
+- [X] Level 7
+- [X] Level 8
+- [X] Level 9
+- [X] Level 10
+- [ ] Level 11
+- [ ] Level 12
+- [ ] Level 13
+- [ ] Level 14
+- [ ] Level 15
 
 ## Security
 
